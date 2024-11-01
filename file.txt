@@ -1,8 +1,8 @@
 One
-2
+Two
 Three
 Four
 Five
 Six
-Seven
+7
 Eight
